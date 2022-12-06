@@ -2,10 +2,10 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.bonitasoft.presales.demo</groupId>
-  <artifactId>learn-and-go-bcd</artifactId>
+  <groupId>com.bonitasoft.training</groupId>
+  <artifactId>bonita-advanced-lad</artifactId>
   <version>0.0.1</version>
-  <name>learn-and-go-bcd</name>
+  <name>Bonitasoft Advanced LAD</name>
   <properties>
     <bonita.runtime.version>7.15.0</bonita.runtime.version>
     <maven-install-plugin.version>3.0.0-M1</maven-install-plugin.version>
